@@ -1,0 +1,27 @@
+
+h1 {
+    color: red;
+    font-size: 24px;
+}
+
+li {
+    color: rgb(255, 0, 225);
+}
+
+.lista1 {
+    color: rgb(255, 136, 0);
+}
+
+ul li {
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+    
